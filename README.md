@@ -2,3 +2,8 @@
 
 ### android手机APP
 
+#### 内部结构简介
+
+---------------
+
+查看[自由家](https://github.com/jingfatech/diyhomefree)
